@@ -1,0 +1,12 @@
+#tuples
+tpl=()
+sisters=('yashfa','roman')
+brothers=('aaron','orhan')
+siblings=sisters+brothers
+print(siblings)
+print(len(siblings))
+siblings=list(siblings)
+siblings.append('naveed')
+siblings.append('fozia')
+siblings=tuple(siblings)
+print(siblings)

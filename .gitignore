@@ -1,0 +1,39 @@
+# Editor / IDE
+.vscode/
+.vs/
+*.suo
+*.user
+
+# Compiled output
+*.exe
+*.obj
+*.o
+*.out
+*.dll
+*.lib
+*.a
+*.pdb
+*.ilk
+*.exp
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+x64/
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+packages/
+# Windows system files
+Thumbs.db
+Desktop.ini
