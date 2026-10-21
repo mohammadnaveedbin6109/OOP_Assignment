@@ -16,5 +16,6 @@ int main() {
 
     ptr->gpa = 3.9;
     ptr->print_info();
+    cout<<"Hello World";
     return 0;
 }
